@@ -22,3 +22,7 @@ body {
   background-image: radial-gradient(circle, #0F8136 0%, #9EFEBF 25%, #15A546 50%, #9EFEBF 75%);
 }
 
+.radial-login-background {
+  background-image: radial-gradient(circle, #0F8136 0%, #15A546 25%, #67FE9B 50%,);
+}
+
